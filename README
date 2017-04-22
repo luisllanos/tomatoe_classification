@@ -1,0 +1,8 @@
+Classification of the state of tomato for consumption
+
+This is a Tomatoe state Classiffication with Python 2.7 Programming Language, with OpenCV 2.4
+
+For Classification of the state of tomato for consumption (by color), 
+use 3D RGB histogram for image descriptor, This histogram will be used to characterize the color of the tomatoe, which is a good starting
+point for classifying the state of a tomatoe. Masking is used to focus on the AOI (Area of Interest), RandomForestClassifier is used for classification.
+
